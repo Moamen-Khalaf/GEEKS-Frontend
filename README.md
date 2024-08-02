@@ -24,4 +24,4 @@
       - [ ] [1D-Challenge3](https://www.youtube.com/watch?v=eD538b05yc8&list=PLYyqC4bNbCIdvviLNbvYKfvHqszFPnUkj&index=20&pp=iAQB)
       - [ ] [0.5D-Challenge4](https://www.youtube.com/watch?v=PNeRlggQMEc&list=PLYyqC4bNbCIdvviLNbvYKfvHqszFPnUkj&index=24&pp=iAQB)
     - [ ] [Task](https://www.youtube.com/watch?v=izsIT51koT8&list=PLYyqC4bNbCIdvviLNbvYKfvHqszFPnUkj&index=31&pp=iAQB)
-    - [ ] amr edit
+
