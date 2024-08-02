@@ -18,7 +18,7 @@
       - [Get API key](https://quizapi.io/register)
       - [Read Doc](https://quizapi.io/docs/1.0/overview)
   - ### API Advanced
-    - [ ] [3DTutorial](https://www.youtube.com/playlist?list=PLYyqC4bNbCIdvviLNbvYKfvHqszFPnUkj)
+    - [ ] [3D-Tutorial](https://www.youtube.com/playlist?list=PLYyqC4bNbCIdvviLNbvYKfvHqszFPnUkj)
       - [ ] [0.5D-Challange1](https://www.youtube.com/watch?v=ELL0_6TEFM4&list=PLYyqC4bNbCIdvviLNbvYKfvHqszFPnUkj&index=11)
       - [ ] [0.5D-Challenge2](https://www.youtube.com/watch?v=Kr-dQi_axg0&list=PLYyqC4bNbCIdvviLNbvYKfvHqszFPnUkj&index=15&pp=iAQB)
       - [ ] [1D-Challenge3](https://www.youtube.com/watch?v=eD538b05yc8&list=PLYyqC4bNbCIdvviLNbvYKfvHqszFPnUkj&index=20&pp=iAQB)
