@@ -11,7 +11,7 @@
 - ## JS
   - ### Basics & DOM & BOM & API's Basics
     - [ ] [7D-Tutorial: P1](https://www.youtube.com/watch?v=gIGGhFlGgLI&list=PLDoPjvoNmBAzhFD3niPAa1C1gXG4cs14J&index=7&pp=iAQB)
-    - [ ] [5D-Tutorial: P2](https://www.youtube.com/watch?v=FKrfis1W1tk&list=PLDoPjvoNmBAzhFD3niPAa1C1gXG4cs14J&index=8&pp=iAQB)
+    - [ ] [7D-Tutorial: P2](https://www.youtube.com/watch?v=FKrfis1W1tk&list=PLDoPjvoNmBAzhFD3niPAa1C1gXG4cs14J&index=8&pp=iAQB)
     - [ ] [2D-Task1: Timer](https://moamen-khalaf.github.io/Timer/)
     - [ ] [3D-Task2: Todo](https://moamen-khalaf.github.io/Todo/)
     - [ ] [4D-Task3: QUIZ](https://moamen-khalaf.github.io/Quiz/)
