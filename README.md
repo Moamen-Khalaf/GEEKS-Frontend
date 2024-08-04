@@ -28,3 +28,4 @@
     - [ ] [Task](https://www.youtube.com/watch?v=izsIT51koT8&list=PLYyqC4bNbCIdvviLNbvYKfvHqszFPnUkj&index=31&pp=iAQB)
 - ## GIT & GITHUB
   - [ ] [Tutorial](https://www.youtube.com/watch?v=Q6G-J54vgKc&pp=ygUVZ2l0IGFuZCBnaXRodWIg2LTYsdit)
+  - [ ] [Another Tutorial](https://www.youtube.com/watch?v=Z6C35WqawGs&list=PLYyqC4bNbCIeCHLTRtwdLpQvle_zIavZ-)
