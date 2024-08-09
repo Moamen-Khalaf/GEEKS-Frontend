@@ -1,7 +1,7 @@
 # Frontend
 
 - ## HTML
-  - [x] [4D-Tutorial](https://www.youtube.com/watch?v=qfPUMV9J5yw&pp=ygULZWx6ZXJvIGh0bWw%3D)
+  - [ ] [4D-Tutorial](https://www.youtube.com/watch?v=qfPUMV9J5yw&pp=ygULZWx6ZXJvIGh0bWw%3D)
 - ## CSS
   - [ ] [8D-Tutorial](https://www.youtube.com/watch?v=qyVkLebgfzY&pp=ygUKY3NzIGVsemVybw%3D%3D)
   - [ ] [3D-Task1](https://www.youtube.com/watch?v=_-eh8cwGGwg&list=PLDoPjvoNmBAzhFD3niPAa1C1gXG4cs14J&index=3&pp=iAQB)
@@ -28,5 +28,6 @@
       - [ ] [0.5D-Challenge5](https://www.youtube.com/watch?v=CvruguvV7_A&list=PLYyqC4bNbCIdvviLNbvYKfvHqszFPnUkj&index=30)
     - [ ] [Final Project](https://www.youtube.com/watch?v=izsIT51koT8&list=PLYyqC4bNbCIdvviLNbvYKfvHqszFPnUkj&index=31&pp=iAQB)
       - [ ]  [APIs](https://documenter.getpostman.com/view/4696539/2s83zjqN3F)
+      - [ ]  [GitHub-for resources and Design](https://github.com/Yarob50/Advanced-JS-Course-Final-Project)
 - ## GIT & GITHUB
   - [ ] [Tutorial](https://www.youtube.com/watch?v=Q6G-J54vgKc&pp=ygUVZ2l0IGFuZCBnaXRodWIg2LTYsdit)
